@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Diana👋
 
-<!--
-**Diana-Maria-Pirleala/Diana-Maria-Pirleala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Developer | Entry Level  
+💻 Interested in Databases & Web Development 
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- HTML, CSS
+- JavaScript (basic logic, DOM)
+- SQL (MSSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning
+- JavaScript
+- Web Development basics
+
+  ## 📫 Contact
+- LinkedIn: www.linkedin.com/in/diana-pîrleală-83b452320
+- Email: pirleala.diana@gmail.com

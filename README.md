@@ -7,6 +7,7 @@
 - HTML, CSS
 - JavaScript (basic logic, DOM)
 - SQL (MSSQL)
+- C# (basic–intermediate) with focus on Windows Forms
 
 ## 📚 Currently learning
 - JavaScript
